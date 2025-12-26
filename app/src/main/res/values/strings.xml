@@ -1,0 +1,9 @@
+<resources>
+
+    <string name="app_name">Public Library\n</string>
+    <string-array name="roles_array">
+        <item>Student</item>
+        <item>Admin</item>
+    </string-array>
+
+</resources>
